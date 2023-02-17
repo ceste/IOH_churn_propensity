@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+churn_propensity/
 
 # Spyder project settings
 .spyderproject
